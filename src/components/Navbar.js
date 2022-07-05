@@ -6,7 +6,7 @@ export default class Navbar extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg fixed-top navbar-warning bg-warning">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand mx-1" to="/">
             NewsMonkey
           </Link>
           <button
